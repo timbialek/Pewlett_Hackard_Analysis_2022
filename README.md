@@ -11,7 +11,7 @@
 
 *  Of the retiring employees 64% are in senior positions with the biggest need for Senior Engineers (33%) and Senior Staff (32%)
 
-![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Resources/retirement_titles.PNG)
+![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Pewlet-Hackard-Analysis/Resources/retirement_titles.PNG)
 
 * There are only 2 managers that are retiring
 
@@ -33,11 +33,11 @@
 
 Revised Retirement Titles for only Current Employees
 
-![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Resources/retirement_titles_current_employees.PNG)    
+![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Pewlet-Hackard-Analysis/Resources//retirement_titles_current_employees.PNG)    
 
 Employees by Title Eligible to be Mentored
 
-![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Resources/mentorship_eligibility_by_title.PNG)
+![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Pewlet-Hackard-Analysis/Resources/mentorship_eligibility_by_title.PNG)
 
 
 
