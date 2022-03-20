@@ -25,7 +25,7 @@
 
 > In addition to the above data that has been provided there are couple of additional tables that would be helpful in evaluating the needs of the company during the needs upcoming "silver tsunami".  
 
-> The first would be to recreate the retirement table and only include the current active employees that will be retirement eligible.  As that table stands now it includes employees that have already left the company and this over inflating the number of retiring employees.  As you can see by selecting on the following link, [retirement_titles_current_employees](https://github.com/timbialek/Pewlett-Hackard-Analysis/blob/main/Resources/retirement_titles_current_employees.PNG), there are really only 72,458 current employees eligible for retirement.  
+> The first would be to recreate the retirement table and only include the current active employees that will be retirement eligible.  As that table stands now it includes employees that have already left the company and this over inflating the number of retiring employees.  As you can see by selecting on the following link, [retirement_titles_current_employees](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Pewlet-Hackard-Analysis/Resources/retirement_titles_current_employees.PNG), there are really only 72,458 current employees eligible for retirement.  
 
 > Second, I would look at the employees in the mentorship program to see based on title how many are in senior level positions.  I would assume the retiring employees would be mentoring the employees that would be replacing them so I am not sure a Senior Engineer would be mentoring another Senior Engineer, so we might need to eliminate the Senior level staff when looking at the future needs. Although they could be eligible for the 2 manager positions that will be opening up.  
 
@@ -33,7 +33,7 @@
 
 Revised Retirement Titles for only Current Employees
 
-![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Pewlet-Hackard-Analysis/Resources//retirement_titles_current_employees.PNG)    
+![](https://github.com/timbialek/Pewlett_Hackard_Analysis_2022/blob/main/Pewlet-Hackard-Analysis/Resources/retirement_titles_current_employees.PNG)    
 
 Employees by Title Eligible to be Mentored
 
